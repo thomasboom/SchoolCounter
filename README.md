@@ -1,2 +1,3 @@
-# java-app
-eerste java app
+# SchoolCounter
+
+Linkedin Learning school application.
